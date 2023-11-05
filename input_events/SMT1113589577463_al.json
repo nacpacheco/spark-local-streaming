@@ -1,0 +1,157 @@
+{
+  "num_ulti_vers_sist": "5",
+  "txt_detl_idt_pedi_pgto": "SMT1113589577463",
+  "cod_idef_clie": "customer-store",
+  "dat_hor_tran": "2023-05-11T13:58:33.181Z",
+  "objt_clie": {
+    "nom_tipo_docm": "114XXXXXX63",
+    "nom_ende_emai_clie": "RAFAXXX@HOTMAIL.COM",
+    "nom_clie": "JEFFERSON",
+    "objt_tel_clie": {
+      "cod_tel_clie": "n/a",
+      "cod_area_tel": "21",
+      "cod_pais_tel": "55",
+      "num_tel_clie": "98XXXXX36"
+    },
+    "cod_rfrc_clie": "xxxx-bcdd-xxxx-8c4e-39cb93e81852",
+    "cod_tipo_pess": "individual"
+  },
+  "objt_ende_entg_pedi": {
+    "nom_cida_ende_entg": "RIO DE JANEIRO",
+    "nom_cmpl_ende_entg": "102",
+    "cod_pais_resd": "BR",
+    "nom_bair_ende_entg": "RCR DOS BANDEIRANTES",
+    "num_logr_ende_entg": "00",
+    "nom_pess": "JEFFERSON",
+    "sig_uf": "RJ",
+    "nom_estd": "RJ",
+    "nom_logr_ende_entg": "R LEIL ERNANI MELLO",
+    "cod_cep": "22795-520"
+  },
+  "list_desc_item_pedi": [],
+  "list_item_pedi": [
+    {
+      "des_moda_entg_item": "Entrega Padr\u00c3\u00a3o",
+      "qtd_dia_prz_entg": 10,
+      "vlr_totl_fret": 16.22,
+      "nom_item": "Combo Natura Ekos",
+      "cod_ofrt_ineo_requ": "64555c61d3a78500119f6518",
+      "vlr_oril": 106.5,
+      "vlr_prod": 59.9,
+      "vlr_prod_ofrt_desc": 0.0,
+      "nom_prod_orig": "Combo Natura Ekos",
+      "txt_plae_otmz_url_prod": "combo-natura-ekos",
+      "qtd_item_pedi": 1,
+      "idt_venr": "8dJAULm6us",
+      "nom_venr": "Top Store",
+      "idt_vrne_venr": "4646195",
+      "vlr_fret": 16.22,
+      "vlr_desc_envo": 0.0,
+      "cod_vrne_prod": "MKU-9iSYhmyGMPHpM",
+      "txt_plae_otmz_url_item": "combo-natura-ekos",
+      "nom_url_img_oril": "https://s3.amazonaws.com/satelital-resources/products/119790_6_8e69d25c-b69c-4845-a8f6-5df539a2b658_Big.jpg",
+      "vlr_oril_prod_unit_vrne": 106.5,
+      "vlr_prec_unit_brut": 59.9,
+      "list_cod_loja_vend": [
+        {
+          "cod_loja_vend": "default",
+          "qtd_loja_item": 1
+        }
+      ]
+    },
+    {
+      "des_moda_entg_item": "Entrega padr\u00c3\u00a3o",
+      "qtd_dia_prz_entg": 1,
+      "vlr_totl_fret": 8.9,
+      "nom_oped_empr": "0751a27a-8eda-44be-8e9e-69b3521f6707-1_1_conventional",
+      "nom_item": "Livro - Mindset",
+      "cod_ofrt_ineo_requ": "626c239951dd578ff254c226",
+      "vlr_oril": 69.9,
+      "vlr_prod": 44.5,
+      "vlr_prod_ofrt_desc": 0.0,
+      "nom_prod_orig": "Livro - Mindset",
+      "txt_plae_otmz_url_prod": "livro-mindset",
+      "qtd_item_pedi": 1,
+      "idt_venr": "hxL9bHz7OO",
+      "nom_venr": "Magazine Luiza",
+      "idt_vrne_venr": "222419500_magazineluiza",
+      "vlr_fret": 8.9,
+      "vlr_desc_envo": 0.0,
+      "cod_vrne_prod": "MKU-tkv6tbv5AAquh",
+      "txt_plae_otmz_url_item": "livro-mindset",
+      "nom_url_img_oril": "https://a-static.mlcdn.com.br/1000x1000/livro-mindset/magazineluiza/222419500/987b1d52f9044d8a8a97b78222720807.jpg",
+      "vlr_oril_prod_unit_vrne": 69.9,
+      "vlr_prec_unit_brut": 44.5,
+      "list_cod_loja_vend": [
+        {
+          "cod_loja_vend": "default",
+          "qtd_loja_item": 1
+        }
+      ]
+    }
+  ],
+  "stat_pgto": "PAID",
+  "list_envo": [
+    {
+      "cod_tipo_entg": "PF1c599LF_Zm3",
+      "objt_carg_fatm": {
+        "dat_emis_nail": "2023-05-11T13:10:34.607Z",
+        "cod_nota_fisc": "3248638",
+        "cod_srie": "1"
+      },
+      "list_item_envo": [
+        {
+          "qtd_prod": 1,
+          "cod_prod_venr": "4646195",
+          "cod_prod": "MKU-9iSYhmyGMPHpM",
+          "stat_entg": "SENT"
+        }
+      ],
+      "cod_venr": "8dJAULm6us",
+      "nom_stat_entg": "SENT",
+      "objt_des_stat_rtmt": {
+        "nom_trtd": "Padr\u00c3\u00a3o",
+        "des_moda_entg": "Padr\u00c3\u00a3o",
+        "prco_rtmt": "3248638",
+        "dat_envo_rtmt": "2023-05-11T13:10:34.607Z"
+      }
+    },
+    {
+      "cod_tipo_entg": "Egom7deHcoH3J",
+      "objt_carg_fatm": {
+        "dat_emis_nail": "2023-05-11T03:00:00.000Z",
+        "cod_nota_fisc": "855207",
+        "cod_srie": "4"
+      },
+      "list_item_envo": [
+        {
+          "qtd_prod": 1,
+          "cod_prod_venr": "222419500_magazineluiza",
+          "cod_prod": "MKU-tkv6tbv5AAquh",
+          "stat_entg": "SENT"
+        }
+      ],
+      "cod_venr": "hxL9bHz7OO",
+      "nom_stat_entg": "SENT",
+      "objt_des_stat_rtmt": {
+        "nom_trtd": "MAFD",
+        "des_moda_entg": "MAFD",
+        "prco_rtmt": "C\u00c3\u00b3digo de rastreio indispon\u00c3\u00advel",
+        "dat_envo_rtmt": "2023-05-12T02:47:24.000Z"
+      }
+    }
+  ],
+  "stat_pedi": "SENT",
+  "idt_loja": "e6Cxzg1ttq",
+  "objt_des_rsum": {
+    "num_item": 2.0,
+    "qtd_maxi_temp_envo": 10.0,
+    "vlr_desc_conc_pedi": 0.0,
+    "vlr_totl_pedi": 104.4,
+    "vlr_totl_desc": 0.0,
+    "vlr_cust_totl_envo": 25.12,
+    "vlr_desc_totl_envo": 0.0
+  },
+  "dat_atui": "2023-05-12T03:00:29.737Z",
+  "cod_aces_tokn": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdW1tYXJ5Ijp7InRvdGFsIjoxMDQuNCwidG90YWxTaGlwcGluZ0Nvc3QiOjI1LjEyLCJmaW5hbFByaWNlIjoxMjkuNTIsInRvdGFsUHJpY2VEaXNjb3VudCI6MCwidG90YWxTaGlwcGluZ0Rpc2NvdW50IjowLCJvcmRlcnNEaXNjb3VudCI6MH0sImN1c3RvbWVyIjp7InBob25lIjp7ImFyZWFDb2RlIjoiMjEiLCJudW1iZXIiOiI5ODQ4MTEyMzYifSwiZW1haWwiOiJSQUZBRUxNT05URUlST185MUBIT1RNQUlMLkNPTSIsIm5hbWUiOiJKRUZGRVJTT04gUkFGQUVMIERFIEFSQVVKTyBNT05URUlSTyIsImRvY3VtZW50IjoiMTE0NTg1Nzg3NjMifSwiZGVsaXZlcnlBZGRyZXNzIjp7Im51bWJlciI6IjY1IiwiemlwY29kZSI6IjIyNzk1LTUyMCIsImNvdW50cnlDb2RlIjoiQlIiLCJyZWNlaXZlck5hbWUiOiJKRUZGRVJTT04gUkFGQUVMIERFIEFSQVVKTyBNT05URUlSTyIsInN0cmVldCI6IlIgTEVJTCBFUk5BTkkgTUVMTE8iLCJjaXR5IjoiUklPIERFIEpBTkVJUk8iLCJjb21wbGVtZW50IjoiMTAyIiwic2hvcnRTdGF0ZSI6IlJKIiwic3RhdGUiOiJSSiIsIm5laWdoYm9yaG9vZCI6IlJDUiBET1MgQkFOREVJUkFOVEVTIn0sIml0ZW1zIjpbeyJza3VJZCI6Ik1LVS05aVNZaG15R01QSHBNIiwicHJvZHVjdE5hbWUiOiJDb21ibyBOYXR1cmEgRWtvcyIsIm9mZmVySWQiOiI2NDU1NWM2MWQzYTc4NTAwMTE5ZjY1MTgiLCJzZWxsZXJOYW1lIjoiVG9wIFN0b3JlIiwic2VsbGVySWQiOiI4ZEpBVUxtNnVzIiwic2VsbGVyU2t1SWQiOiI0NjQ2MTk1IiwiZmluYWxTaGlwcGluZ0Nvc3QiOjE2LjIyLCJwcmljZSI6NTkuOSwicXVhbnRpdHkiOjEsImZpbmFsUHJpY2UiOjU5LjksInVuaXRGaW5hbmNpYWxEaXNjb3VudCI6MCwidW5pdFJldmVyc2FsVmFsdWUiOjc2LjEyfSx7InNrdUlkIjoiTUtVLXRrdjZ0YnY1QUFxdWgiLCJwcm9kdWN0TmFtZSI6IkxpdnJvIC0gTWluZHNldCIsIm9mZmVySWQiOiI2MjZjMjM5OTUxZGQ1NzhmZjI1NGMyMjYiLCJzZWxsZXJOYW1lIjoiTWFnYXppbmUgTHVpemEiLCJzZWxsZXJJZCI6Imh4TDliSHo3T08iLCJzZWxsZXJTa3VJZCI6IjIyMjQxOTUwMF9tYWdhemluZWx1aXphIiwiZmluYWxTaGlwcGluZ0Nvc3QiOjguOSwicHJpY2UiOjQ0LjUsInF1YW50aXR5IjoxLCJmaW5hbFByaWNlIjo0NC41LCJ1bml0RmluYW5jaWFsRGlzY291bnQiOjAsInVuaXRSZXZlcnNhbFZhbHVlIjo1My40fV0sImNyZWF0ZWRBdCI6IjIwMjMtMDUtMTFUMTM6NTg6MzMuMTgxWiIsIl9pZCI6IlNNVDExMTM1ODk1NzciLCJpYXQiOjE2ODM4MTM1MTN9.t9PQc7HqOcScgFWVHzWD_66GG2zBEhZB0-EKnJA7iMIsDrmbY44YyD-0tXkMnewnGnEedkECpxixPtTOPSSNWVZC_dcCRxuk7QyjpXBepxBBOiO_tW1I_ka4h9WO0sN77hyg63iopOtmN-1cUES9O1BKqfp6iSWVBKrxKzerv20uKfFTWwUcbQd6kHmBM-hiztWfS0o8m6Z1LKeT5QXl3y6_qQwvptXsIl73QbvobeD85WAHvEPsmO-4BhuDJCNmiaA8pIbP3jTNyU6FdSx7ZkKgy-QF3p2bur7uO1ZO8zNjwaY6LWm-Oe5_jgpvEz4kgL_hpQz3CrWU-Vwfqc0iPw"
+}

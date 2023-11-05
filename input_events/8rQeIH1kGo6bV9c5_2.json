@@ -1,0 +1,79 @@
+{
+  "num_ulti_vers_sist": "2",
+  "txt_detl_idt_pedi_pgto": "8rQeIH1kGo6bV9c5",
+  "cod_idef_clie": "customer-store",
+  "dat_hor_tran": "2022-07-16T06:11:38.489Z",
+  "objt_clie": {
+    "nom_tipo_docm": "50267689896",
+    "nom_ende_emai_clie": "C.NICOCHELLI@GMAIL.COM",
+    "nom_clie": "CAROLINE NICOCHELLI MEDEIROS DA SILVA",
+    "objt_tel_clie": {
+      "cod_tel_clie": "n/a",
+      "cod_area_tel": "11",
+      "cod_pais_tel": "55",
+      "num_tel_clie": "965823378"
+    },
+    "cod_rfrc_clie": "305a9ae2-2557-4819-947a-7238b105f928",
+    "cod_tipo_pess": "individual"
+  },
+  "objt_ende_entg_pedi": {
+    "nom_cida_ende_entg": "SAO PAULO",
+    "nom_cmpl_ende_entg": "122",
+    "cod_pais_resd": "BR",
+    "nom_bair_ende_entg": "VL MARIANA",
+    "num_logr_ende_entg": "000",
+    "nom_pess": "CAROLINE NICOCHELLI MEDEIROS DA SILVA",
+    "sig_uf": "SP",
+    "nom_estd": "SP",
+    "nom_logr_ende_entg": "R PAULA NEY",
+    "cod_cep": "04107-020"
+  },
+  "list_desc_item_pedi": [],
+  "list_item_pedi": [
+    {
+      "des_moda_entg_item": "Produto Virtual",
+      "qtd_dia_prz_entg": 10,
+      "vlr_totl_fret": 0.0,
+      "nom_oped_empr": "",
+      "nom_item": "Rock in Rio 2022 - 03/09 - Setor Gramado",
+      "cod_ofrt_ineo_requ": "62cdf4fbe3cc89ac64deb7c9",
+      "vlr_oril": 468.75,
+      "vlr_prod": 468.75,
+      "vlr_prod_ofrt_desc": 0.0,
+      "nom_prod_orig": "Rock in Rio 2022 - 03/09 - Setor Gramado",
+      "txt_plae_otmz_url_prod": "rock-in-rio-2022-03-09-setor-gramado",
+      "qtd_item_pedi": 1,
+      "idt_venr": "V3mGU4wV0C",
+      "nom_venr": "Easylive",
+      "idt_vrne_venr": "36537",
+      "vlr_fret": 0.0,
+      "vlr_desc_envo": 0.0,
+      "cod_vrne_prod": "MKU-89HZXeJq6vudQ",
+      "txt_plae_otmz_url_item": "rock-in-rio-2022-03-09-setor-gramado",
+      "nom_url_img_oril": "https://static.cdn-mkplace.com.br/storage/png/1f320f1b362aded1cb260504c4e15fd9896456ad874357e1405c5d19b20f7b94.png",
+      "vlr_oril_prod_unit_vrne": 468.75,
+      "vlr_prec_unit_brut": 468.75,
+      "list_cod_loja_vend": [
+        {
+          "cod_loja_vend": "default",
+          "qtd_loja_item": 1
+        }
+      ]
+    }
+  ],
+  "stat_pgto": "CANCELED",
+  "list_envo": [],
+  "stat_pedi": "CANCELED",
+  "idt_loja": "e6Cxzg1ttq",
+  "objt_des_rsum": {
+    "num_item": 1.0,
+    "qtd_maxi_temp_envo": 10.0,
+    "vlr_desc_conc_pedi": 0.0,
+    "vlr_totl_pedi": 468.75,
+    "vlr_totl_desc": 0.0,
+    "vlr_cust_totl_envo": 0.0,
+    "vlr_desc_totl_envo": 0.0
+  },
+  "dat_atui": "2022-07-16T06:11:49.482Z",
+  "cod_aces_tokn": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXltZW50U3RhdHVzIjoiUFJFLU9SREVSIiwicGF5bWVudHMiOltdLCJzdGF0dXMiOiJQUkUtT1JERVIiLCJjbGllbnRJZCI6ImN1c3RvbWVyLXN0b3JlIiwic3RvcmVJZCI6ImU2Q3h6ZzF0dHEiLCJzdW1tYXJ5Ijp7Iml0ZW1zIjoxLCJ0b3RhbCI6NDY4Ljc1LCJ0b3RhbFByaWNlRGlzY291bnQiOjAsInRvdGFsU2hpcHBpbmdDb3N0IjowLCJ0b3RhbFNoaXBwaW5nRGlzY291bnQiOjAsIm1heFNoaXBwaW5nVGltZSI6MTAsIm9yZGVyc0Rpc2NvdW50IjowfSwiZGlzY291bnRzIjpbXSwiY3VzdG9tZXIiOnsicGhvbmUiOnsiX2lkIjoibi9hIiwiY291bnRyeUNvZGUiOiI1NSIsImFyZWFDb2RlIjoiMTEiLCJudW1iZXIiOiI5NjU4MjMzNzgifSwiZW1haWwiOiJDLk5JQ09DSEVMTElAR01BSUwuQ09NIiwicmVmIjoiMzA1YTlhZTItMjU1Ny00ODE5LTk0N2EtNzIzOGIxMDVmOTI4IiwibmFtZSI6IkNBUk9MSU5FIE5JQ09DSEVMTEkgTUVERUlST1MgREEgU0lMVkEiLCJ0eXBlIjoiaW5kaXZpZHVhbCIsImRvY3VtZW50IjoiNTAyNjc2ODk4OTYifSwiZGVsaXZlcnlBZGRyZXNzIjp7Im51bWJlciI6IjExOSIsInppcGNvZGUiOiIwNDEwNy0wMjAiLCJjb3VudHJ5Q29kZSI6IkJSIiwicmVjZWl2ZXJOYW1lIjoiQ0FST0xJTkUgTklDT0NIRUxMSSBNRURFSVJPUyBEQSBTSUxWQSIsInN0cmVldCI6IlIgUEFVTEEgTkVZIiwiY2l0eSI6IlNBTyBQQVVMTyIsImNvbXBsZW1lbnQiOiIxMjIiLCJzaG9ydFN0YXRlIjoiU1AiLCJzdGF0ZSI6IlNQIiwibmVpZ2hib3Job29kIjoiVkwgTUFSSUFOQSJ9LCJpdGVtcyI6W3sic2hpcHBpbmdDb3N0IjowLCJzaGlwcGluZ0Rpc2NvdW50IjowLCJmaW5hbFNoaXBwaW5nQ29zdCI6MCwicHJvZHVjdE5hbWUiOiJSb2NrIGluIFJpbyAyMDIyIC0gMDMvMDkgLSBTZXRvciBHcmFtYWRvIiwicHJvZHVjdFNsdWciOiJyb2NrLWluLXJpby0yMDIyLTAzLTA5LXNldG9yLWdyYW1hZG8iLCJzbHVnIjoicm9jay1pbi1yaW8tMjAyMi0wMy0wOS1zZXRvci1ncmFtYWRvIiwic2t1SWQiOiJNS1UtODlIWlhlSnE2dnVkUSIsIm5hbWUiOiJSb2NrIGluIFJpbyAyMDIyIC0gMDMvMDkgLSBTZXRvciBHcmFtYWRvIiwidGh1bWJuYWlsIjoiaHR0cHM6Ly9zdGF0aWMuY2RuLW1rcGxhY2UuY29tLmJyL3N0b3JhZ2UvcG5nLzFmMzIwZjFiMzYyYWRlZDFjYjI2MDUwNGM0ZTE1ZmQ5ODk2NDU2YWQ4NzQzNTdlMTQwNWM1ZDE5YjIwZjdiOTQucG5nIiwicXVhbnRpdHkiOjEsIm9mZmVySWQiOiI2MmNkZjRmYmUzY2M4OWFjNjRkZWI3YzkiLCJ3YXJlaG91c2VzIjpbeyJfaWQiOiJkZWZhdWx0IiwicXVhbnRpdHkiOjF9XSwic2VsbGVyTmFtZSI6IkVhc3lsaXZlIiwic2VsbGVySWQiOiJWM21HVTR3VjBDIiwic2VsbGVyU2t1SWQiOiIzNjUzNyIsInByaWNlIjo0NjguNzUsIm9yaWdpbmFsUHJpY2UiOjQ2OC43NSwidW5pdFByaWNlIjo0NjguNzUsInVuaXRPcmlnaW5hbFByaWNlIjo0NjguNzUsInByaWNlRGlzY291bnQiOjAsImRlbGl2ZXJ5TWV0aG9kTmFtZSI6IlByb2R1dG8gVmlydHVhbCIsImVzdGltYXRlZEJ1c2luZXNzRGF5cyI6MTAsImxvZ2lzdGljUHJvdmlkZXJOYW1lIjoiIn1dLCJfaWQiOiI4clFlSUgxa0dvNmJWIiwiY29kZSI6IjIyMDc3NDgzMjY2NTI4MTUyMCIsInNoaXBtZW50cyI6W10sImNyZWF0ZWRBdCI6IjIwMjItMDctMTZUMDY6MTE6MzguNDg5WiIsInVwZGF0ZWRBdCI6IjIwMjItMDctMTZUMDY6MTE6MzguNDg5WiIsIl9fdiI6MCwiaWF0IjoxNjU3OTUxODk4fQ.r7FKX6m2MxHO_Qob2d0YmsiUg81R-4vybUHneZPxNIC8ygeBD0jpddTw5Ov_yJjMvw993p-zQgwixWUEz7PPmd4ruwT5BcpyJ1KeT3YCaDHGvf6IN9FKuq_NROUjfgC6ClBMHaFnx1E6HkHe3ABW8anlzNDF_ZGd_BRhsbaIqBLrXDD6pacT-6ZA9v0YAKgoeHYxlnabN2Ti7KMgT6nt1c8tGDQ7h8Guww6HjlRKN2B4jTV-vlDI0-dlsJGWgqGa0alRgXnXwyv6GabFGX6ffjAShndH32eZ_pkbIadnJ2JdODTcKBzsdX92WlU6dq66ZnATdcCE5qOFFY6DJa3rIQ"
+}

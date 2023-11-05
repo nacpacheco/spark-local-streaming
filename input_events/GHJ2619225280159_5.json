@@ -1,0 +1,77 @@
+{
+  "txt_detl_idt_pedi_pgto": "GHJ2619225280159",
+  "cod_idef_clie": "customer-store",
+  "dat_hor_tran": "2023-07-26T19:22:05.262Z",
+  "objt_clie": {
+    "nom_tipo_docm": "422XXXXXX29",
+    "nom_ende_emai_clie": "vinicius@gmail.com",
+    "nom_clie": "VINICIUS",
+    "objt_tel_clie": {
+      "cod_tel_clie": "n/a",
+      "cod_area_tel": "11",
+      "cod_pais_tel": "55",
+      "num_tel_clie": "98XXXXX56"
+    },
+    "cod_rfrc_clie": "072dff09-XXX-XXXX-XXXX-f9f26da6e837",
+    "cod_tipo_pess": "individual"
+  },
+  "objt_ende_entg_pedi": {
+    "nom_cida_ende_entg": "S\u00c3\u00a3o Paulo",
+    "nom_cmpl_ende_entg": "",
+    "cod_pais_resd": "BR",
+    "nom_bair_ende_entg": "Cidade Vargas",
+    "num_logr_ende_entg": "000",
+    "nom_pess": "VINICIUS",
+    "sig_uf": "SP",
+    "nom_estd": "SP",
+    "nom_logr_ende_entg": "Santo Est\u00c3\u00a1cio",
+    "cod_cep": "04319-010"
+  },
+  "list_desc_item_pedi": [],
+  "list_item_pedi": [
+    {
+      "des_moda_entg_item": "Entrega padr\u00c3\u00a3o",
+      "qtd_dia_prz_entg": 1,
+      "vlr_totl_fret": 3.05,
+      "nom_oped_empr": "68690f7f-a37d-4b50-bf91-f2aee827c8d8-1_1_conventional",
+      "nom_item": "Sabonete Dove Original",
+      "cod_ofrt_ineo_requ": "62f69ed096bd64d36672f00e",
+      "vlr_oril": 6.15,
+      "vlr_prod": 5.59,
+      "vlr_prod_ofrt_desc": 0.0,
+      "nom_prod_orig": "Sabonete Dove Original",
+      "txt_plae_otmz_url_prod": "sabonete-dove-original",
+      "qtd_item_pedi": 1,
+      "idt_venr": "hxL9bHz7OO",
+      "nom_venr": "Magazine Luiza",
+      "idt_vrne_venr": "220978300_magazineluiza",
+      "vlr_fret": 3.05,
+      "vlr_desc_envo": 0.0,
+      "cod_vrne_prod": "MKU-v70eo1eSiyCa8",
+      "txt_plae_otmz_url_item": "sabonete-dove-original",
+      "nom_url_img_oril": "https://a-static.mlcdn.com.br/1000x1000/sabonete-dove-original-90g/magazineluiza/220978300/eee8cac0c224c2d19a1b8538c0f093d5.jpg",
+      "vlr_oril_prod_unit_vrne": 6.15,
+      "vlr_prec_unit_brut": 5.59,
+      "list_cod_loja_vend": [
+        {
+          "cod_loja_vend": "default",
+          "qtd_loja_item": 1
+        }
+      ]
+    }
+  ],
+  "stat_pgto": "PRE-ORDER",
+  "list_envo": [],
+  "stat_pedi": "PRE-ORDER",
+  "idt_loja": "e6Cxzg1ttq",
+  "objt_des_rsum": {
+    "num_item": 1.0,
+    "qtd_maxi_temp_envo": 1.0,
+    "vlr_desc_conc_pedi": 0.0,
+    "vlr_totl_pedi": 5.59,
+    "vlr_totl_desc": 0.0,
+    "vlr_cust_totl_envo": 3.05,
+    "vlr_desc_totl_envo": 0.0
+  },
+  "dat_atui": "2023-07-26T19:22:05.262Z"
+}

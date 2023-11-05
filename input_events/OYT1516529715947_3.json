@@ -1,0 +1,136 @@
+{
+  "num_ulti_vers_sist": "1",
+  "txt_detl_idt_pedi_pgto": "OYT1516529715947",
+  "cod_idef_clie": "customer-store",
+  "dat_hor_tran": "2023-09-15T16:52:49.375Z",
+  "objt_clie": {
+    "nom_tipo_docm": "095XXXXX401",
+    "nom_ende_emai_clie": "PAULO@GMAIL.COM",
+    "nom_clie": "PAULO",
+    "objt_tel_clie": {
+      "cod_tel_clie": "n/a",
+      "cod_area_tel": "82",
+      "cod_pais_tel": "55",
+      "num_tel_clie": "98XXXXX70"
+    },
+    "cod_rfrc_clie": "77eb57de-XXXX-XXX-XXXX-90ac50fe3923",
+    "cod_tipo_pess": "individual"
+  },
+  "objt_ende_entg_pedi": {
+    "nom_cida_ende_entg": "MACEIO",
+    "nom_cmpl_ende_entg": "CDJDREINA",
+    "cod_pais_resd": "BR",
+    "nom_bair_ende_entg": "STA AMELIA",
+    "num_logr_ende_entg": "00",
+    "nom_pess": "PAULO",
+    "sig_uf": "AL",
+    "nom_estd": "AL",
+    "nom_logr_ende_entg": "AV JORGE BARROS",
+    "cod_cep": "57063-000"
+  },
+  "list_desc_item_pedi": [],
+  "list_item_pedi": [
+    {
+      "des_moda_entg_item": "Entrega Padr\u00c3\u00a3o",
+      "qtd_dia_prz_entg": 11,
+      "vlr_totl_fret": 25.71,
+      "nom_item": "Copo com Canudo Stanley Quencher 2.0 887ML Branco Cream",
+      "cod_ofrt_ineo_requ": "6459e9ba7028520010374e10",
+      "vlr_oril": 285.0,
+      "vlr_prod": 228.0,
+      "vlr_prod_ofrt_desc": 0.0,
+      "nom_prod_orig": "Copo com Canudo Stanley Quencher 2.0 887ML",
+      "txt_plae_otmz_url_prod": "copo-com-canudo-stanley-quencher-2-0-887ml",
+      "qtd_item_pedi": 1,
+      "idt_venr": "8dJAULm6us",
+      "nom_venr": "Top Store",
+      "idt_vrne_venr": "4617245",
+      "vlr_fret": 25.71,
+      "vlr_desc_envo": 0.0,
+      "cod_vrne_prod": "MKU-s6p435iTm8ylT",
+      "txt_plae_otmz_url_item": "copo-com-canudo-stanley-quencher-2-0-887ml-branco-cream",
+      "nom_url_img_oril": "https://s3.amazonaws.com/satelital-resources/products/118224_0_81649904-a280-4ab1-abc3-1e2797fc9117_Big.jpg",
+      "vlr_oril_prod_unit_vrne": 285.0,
+      "vlr_prec_unit_brut": 228.0,
+      "list_cod_loja_vend": [
+        {
+          "cod_loja_vend": "default",
+          "qtd_loja_item": 1
+        }
+      ],
+      "vlr_desc_finn_unit_item": 20.0,
+      "vlr_fina_esto_item": 233.71,
+      "dat_hor_esda_entg_item": "2023-10-02T03:00:00.000Z"
+    }
+  ],
+  "stat_pgto": "PAID",
+  "list_envo": [
+    {
+      "cod_tipo_entg": "ISO5TP2Hu3hWj",
+      "objt_carg_fatm": {
+        "dat_emis_nail": "2023-09-15T21:39:17.353Z",
+        "cod_nota_fisc": "3273618",
+        "cod_srie": "0"
+      },
+      "list_item_envo": [
+        {
+          "qtd_prod": 1,
+          "cod_prod_venr": "4617245",
+          "cod_prod": "MKU-s6p435iTm8ylT",
+          "stat_entg": "SENT",
+          "objt_sub_stat_item": {
+            "cod_sub_stat_item": "400",
+            "nom_sub_stat_item": "Sent"
+          },
+          "dat_hor_cria_item_entg": "2023-09-16T06:13:32.118Z",
+          "dat_hor_atui_item_entg": "2023-09-16T06:13:32.796Z"
+        }
+      ],
+      "cod_venr": "8dJAULm6us",
+      "nom_stat_entg": "SENT",
+      "objt_des_stat_rtmt": {
+        "nom_trtd": "Padr\u00c3\u00a3o",
+        "des_moda_entg": "Padr\u00c3\u00a3o",
+        "prco_rtmt": "3273618",
+        "dat_envo_rtmt": "2023-09-15T21:39:17.353Z"
+      },
+      "objt_sub_stat_envo": {
+        "cod_sub_stat_entg": "400",
+        "nom_sub_stat_entg": "Sent"
+      }
+    }
+  ],
+  "stat_pedi": "SENT",
+  "idt_loja": "e6Cxzg1ttq",
+  "objt_des_rsum": {
+    "num_item": 1.0,
+    "qtd_maxi_temp_envo": 11.0,
+    "vlr_desc_conc_pedi": 20.0,
+    "vlr_totl_pedi": 228.0,
+    "vlr_totl_desc": 20.0,
+    "vlr_cust_totl_envo": 25.71,
+    "vlr_desc_totl_envo": 0.0,
+    "vlr_fina_pedi": 233.71
+  },
+  "dat_atui": "2023-09-16T06:13:32.859Z",
+  "cod_aces_tokn": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdW1tYXJ5Ijp7InRvdGFsIjoyMjgsInRvdGFsU2hpcHBpbmdDb3N0IjoyNS43MSwiZmluYWxQcmljZSI6MjMzLjcxLCJ0b3RhbFByaWNlRGlzY291bnQiOjIwLCJ0b3RhbFNoaXBwaW5nRGlzY291bnQiOjAsIm9yZGVyc0Rpc2NvdW50IjoyMH0sImN1c3RvbWVyIjp7InBob25lIjp7ImFyZWFDb2RlIjoiODIiLCJudW1iZXIiOiI5ODE1MTQ1NzAifSwiZW1haWwiOiJQQVVMT1ZJQ1RPUkxTQEdNQUlMLkNPTSIsIm5hbWUiOiJQQVVMTyBWSUNUT1IgTEFVUklORE8gU0FOVE9TIiwiZG9jdW1lbnQiOiIwOTUxNTc5MjQwMSJ9LCJkZWxpdmVyeUFkZHJlc3MiOnsibnVtYmVyIjoiMTQiLCJ6aXBjb2RlIjoiNTcwNjMtMDAwIiwiY291bnRyeUNvZGUiOiJCUiIsInJlY2VpdmVyTmFtZSI6IlBBVUxPIFZJQ1RPUiBMQVVSSU5ETyBTQU5UT1MiLCJzdHJlZXQiOiJBViBKT1JHRSBCQVJST1MiLCJjaXR5IjoiTUFDRUlPIiwiY29tcGxlbWVudCI6IkNESkRSRUlOQSIsInNob3J0U3RhdGUiOiJBTCIsInN0YXRlIjoiQUwiLCJuZWlnaGJvcmhvb2QiOiJTVEEgQU1FTElBIn0sIml0ZW1zIjpbeyJza3VJZCI6Ik1LVS1zNnA0MzVpVG04eWxUIiwicHJvZHVjdE5hbWUiOiJDb3BvIGNvbSBDYW51ZG8gU3RhbmxleSBRdWVuY2hlciAyLjAgODg3TUwiLCJvZmZlcklkIjoiNjQ1OWU5YmE3MDI4NTIwMDEwMzc0ZTEwIiwic2VsbGVyTmFtZSI6IlRvcCBTdG9yZSIsInNlbGxlcklkIjoiOGRKQVVMbTZ1cyIsInNlbGxlclNrdUlkIjoiNDYxNzI0NSIsInNoaXBwaW5nQ29zdCI6MjUuNzEsInNoaXBwaW5nRGlzY291bnQiOjAsImZpbmFsU2hpcHBpbmdDb3N0IjoyNS43MSwicHJpY2UiOjIyOCwicXVhbnRpdHkiOjEsImZpbmFsUHJpY2UiOjIyOCwidW5pdEZpbmFuY2lhbERpc2NvdW50IjoyMCwidW5pdFJldmVyc2FsVmFsdWUiOjIzMy43MX1dLCJjcmVhdGVkQXQiOiIyMDIzLTA5LTE1VDE2OjUyOjQ5LjM3NVoiLCJfaWQiOiJPWVQxNTE2NTI5NzE1IiwiaWF0IjoxNjk0Nzk2ODE3fQ.U5a7N2q49rb1JCgEpfomnDX_tXFh_JSh5IjRZu4NA67He2XPbpIPEZQoxJ0hoAyMR_nXFnACrRrylVcvoTiqlsSJqF7Ie8HvyICv1TS6NJ6Sc_nWb41MBeQYM4-nSAjvvxi9FDrFFqUxqMZCoJNUmRggOxdS6GzciVohXIrJXWn2hTyQrqon0IikhXQ-iibhSXMeg3ynrYs2Ckztn58wnpN21NYFjO5Slky-UEEJsxKXtcSe7schdjCrkUse4uW7i-4OTWIptPvZePNmcqUrIFPwoGb8EvBaKFiynnmSwOXucEmEKg4nUfseJ24c9zJnKbWTRny94MmkSOuMXINs4Q",
+  "objt_sub_stat_pedi": {
+    "cod_sub_stat_pedi": "400",
+    "nom_sub_stat_pedi": "Sent"
+  },
+  "list_prmo": [
+    {
+      "nom_apli_prmo": "cart",
+      "cod_prmo": "64f63c65d3f7780010a210b9",
+      "nom_prmo": "Semana Cliente - Cupom Progressivo",
+      "nom_tipo_desc": "fixed",
+      "vlr_cnfg_desc": 20.0,
+      "objt_cupo": {
+        "cod_idef_cupo": "64f63ab64a718a0011a6eca0",
+        "nom_tipo_cupo": "default",
+        "cod_cupo": "72HCLIENTE"
+      },
+      "vlr_aplc_desc": 20.0
+    }
+  ]
+}

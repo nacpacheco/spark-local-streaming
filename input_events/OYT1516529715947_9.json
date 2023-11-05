@@ -1,0 +1,95 @@
+{
+    "txt_detl_idt_pedi_pgto": "OYT1516529715947",
+    "cod_idef_clie": "customer-store",
+    "dat_hor_tran": "2023-09-15T16:52:49.375Z",
+    "objt_clie": {
+        "nom_tipo_docm": "095XXXXX401",
+        "nom_ende_emai_clie": "PAULO@GMAIL.COM",
+        "nom_clie": "PAULO",
+        "objt_tel_clie": {
+            "cod_tel_clie": "n/a",
+            "cod_area_tel": "82",
+            "cod_pais_tel": "55",
+            "num_tel_clie": "98XXXXX70"
+        },
+        "cod_rfrc_clie": "77eb57de-XXXX-XXX-XXXX-90ac50fe3923",
+        "cod_tipo_pess": "individual"
+    },
+    "objt_ende_entg_pedi": {
+        "nom_cida_ende_entg": "MACEIO",
+        "nom_cmpl_ende_entg": "CDJDREINA",
+        "cod_pais_resd": "BR",
+        "nom_bair_ende_entg": "STA AMELIA",
+        "num_logr_ende_entg": "00",
+        "nom_pess": "PAULO",
+        "sig_uf": "AL",
+        "nom_estd": "AL",
+        "nom_logr_ende_entg": "AV JORGE BARROS",
+        "cod_cep": "57063-000"
+    },
+    "list_desc_item_pedi": [],
+    "list_item_pedi": [
+        {
+            "des_moda_entg_item": "Entrega Padr\u00c3\u00a3o",
+            "qtd_dia_prz_entg": 11,
+            "vlr_totl_fret": 25.71,
+            "nom_item": "Copo com Canudo Stanley Quencher 2.0 887ML Branco Cream",
+            "cod_ofrt_ineo_requ": "6459e9ba7028520010374e10",
+            "vlr_oril": 285.0,
+            "vlr_prod": 228.0,
+            "vlr_prod_ofrt_desc": 0.0,
+            "nom_prod_orig": "Copo com Canudo Stanley Quencher 2.0 887ML",
+            "txt_plae_otmz_url_prod": "copo-com-canudo-stanley-quencher-2-0-887ml",
+            "qtd_item_pedi": 1,
+            "idt_venr": "8dJAULm6us",
+            "nom_venr": "Top Store",
+            "idt_vrne_venr": "4617245",
+            "vlr_fret": 25.71,
+            "vlr_desc_envo": 0.0,
+            "cod_vrne_prod": "MKU-s6p435iTm8ylT",
+            "txt_plae_otmz_url_item": "copo-com-canudo-stanley-quencher-2-0-887ml-branco-cream",
+            "nom_url_img_oril": "https://s3.amazonaws.com/satelital-resources/products/118224_0_81649904-a280-4ab1-abc3-1e2797fc9117_Big.jpg",
+            "vlr_oril_prod_unit_vrne": 285.0,
+            "vlr_prec_unit_brut": 228.0,
+            "list_cod_loja_vend": [
+                {
+                    "cod_loja_vend": "default",
+                    "qtd_loja_item": 1
+                }
+            ],
+            "vlr_desc_finn_unit_item": 20.0,
+            "vlr_fina_esto_item": 233.71,
+            "dat_hor_esda_entg_item": "2023-10-02T03:00:00.000Z"
+        }
+    ],
+    "stat_pgto": "PRE-ORDER",
+    "list_envo": [],
+    "stat_pedi": "PRE-ORDER",
+    "idt_loja": "e6Cxzg1ttq",
+    "objt_des_rsum": {
+        "num_item": 1.0,
+        "qtd_maxi_temp_envo": 11.0,
+        "vlr_desc_conc_pedi": 20.0,
+        "vlr_totl_pedi": 228.0,
+        "vlr_totl_desc": 20.0,
+        "vlr_cust_totl_envo": 25.71,
+        "vlr_desc_totl_envo": 0.0,
+        "vlr_fina_pedi": 233.71
+    },
+    "dat_atui": "2023-09-15T16:52:49.375Z",
+    "list_prmo": [
+        {
+            "nom_apli_prmo": "cart",
+            "cod_prmo": "64f63c65d3f7780010a210b9",
+            "nom_prmo": "Semana Cliente - Cupom Progressivo",
+            "nom_tipo_desc": "fixed",
+            "vlr_cnfg_desc": 20.0,
+            "objt_cupo": {
+                "cod_idef_cupo": "64f63ab64a718a0011a6eca0",
+                "nom_tipo_cupo": "default",
+                "cod_cupo": "72HCLIENTE"
+            },
+            "vlr_aplc_desc": 20.0
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+  "num_ulti_vers_sist": "2",
+  "txt_detl_idt_pedi_pgto": "WrtmmUd9hO0IY2C5",
+  "cod_idef_clie": "customer-store",
+  "dat_hor_tran": "2022-07-14T00:20:27.107Z",
+  "objt_clie": {
+    "nom_tipo_docm": "017XXXXXX79",
+    "nom_ende_emai_clie": "PAR@GMAIL.COM",
+    "nom_clie": "PRISCYLLA XXXXXXXXXXXXXXXXXX",
+    "objt_tel_clie": {
+      "cod_tel_clie": "n/a",
+      "cod_area_tel": "63",
+      "cod_pais_tel": "55",
+      "num_tel_clie": "98XXXXX64"
+    },
+    "cod_rfrc_clie": "0475e4c8-xxxx-42fa-xxxx-a7c15a45d6bc",
+    "cod_tipo_pess": "individual"
+  },
+  "objt_ende_entg_pedi": {
+    "nom_cida_ende_entg": "Aragua\u00c3\u00adna",
+    "nom_cmpl_ende_entg": "QD30LT09",
+    "cod_pais_resd": "BR",
+    "nom_bair_ende_entg": "Bairro da Cimba",
+    "num_logr_ende_entg": "SN",
+    "nom_pess": "PRISCYLLA XXXXXXXXXXXXXXXXXX",
+    "sig_uf": "TO",
+    "nom_estd": "TO",
+    "nom_logr_ende_entg": "dos Ju\u00c3\u00a1s",
+    "cod_cep": "77824-802"
+  },
+  "list_desc_item_pedi": [],
+  "list_item_pedi": [
+    {
+      "des_moda_entg_item": "Produto Virtual",
+      "qtd_dia_prz_entg": 10,
+      "vlr_totl_fret": 0.0,
+      "nom_oped_empr": "",
+      "nom_item": "Rock in Rio 2022 - 08/09 - Setor Gramado",
+      "cod_ofrt_ineo_requ": "62cdf4fbe3cc89ac64deb7cb",
+      "vlr_oril": 468.75,
+      "vlr_prod": 468.75,
+      "vlr_prod_ofrt_desc": 0.0,
+      "nom_prod_orig": "Rock in Rio 2022 - 08/09 - Setor Gramado",
+      "txt_plae_otmz_url_prod": "rock-in-rio-2022-08-09-setor-gramado",
+      "qtd_item_pedi": 1,
+      "idt_venr": "V3mGU4wV0C",
+      "nom_venr": "Easylive",
+      "idt_vrne_venr": "36539",
+      "vlr_fret": 0.0,
+      "vlr_desc_envo": 0.0,
+      "cod_vrne_prod": "MKU-6G1qsyBPFERB8",
+      "txt_plae_otmz_url_item": "rock-in-rio-2022-08-09-setor-gramado",
+      "nom_url_img_oril": "https://static.cdn-mkplace.com.br/storage/png/afbc58dc42994a23e92be27c6422d42a4a8266f7b9894a131492a3824ee206db.png",
+      "vlr_oril_prod_unit_vrne": 468.75,
+      "vlr_prec_unit_brut": 468.75,
+      "list_cod_loja_vend": [
+        {
+          "cod_loja_vend": "default",
+          "qtd_loja_item": 1
+        }
+      ]
+    },
+    {
+      "des_moda_entg_item": "Produto Virtual",
+      "qtd_dia_prz_entg": 10,
+      "vlr_totl_fret": 0.0,
+      "nom_oped_empr": "",
+      "nom_item": "Rock in Rio 2022 - 02/09 - Setor Gramado",
+      "cod_ofrt_ineo_requ": "62cdf4fbe3cc89ac64deb7c8",
+      "vlr_oril": 468.75,
+      "vlr_prod": 468.75,
+      "vlr_prod_ofrt_desc": 0.0,
+      "nom_prod_orig": "Rock in Rio 2022 - 02/09 - Setor Gramado",
+      "txt_plae_otmz_url_prod": "rock-in-rio-2022-02-09-setor-gramado",
+      "qtd_item_pedi": 1,
+      "idt_venr": "V3mGU4wV0C",
+      "nom_venr": "Easylive",
+      "idt_vrne_venr": "36536",
+      "vlr_fret": 0.0,
+      "vlr_desc_envo": 0.0,
+      "cod_vrne_prod": "MKU-eHeChrSd97hs6",
+      "txt_plae_otmz_url_item": "rock-in-rio-2022-02-09-setor-gramado",
+      "nom_url_img_oril": "https://static.cdn-mkplace.com.br/storage/png/8fa81eccf0af2f4fa8b1a02c26633d9b1227cf456dec65b538c55aaa9740b2d3.png",
+      "vlr_oril_prod_unit_vrne": 468.75,
+      "vlr_prec_unit_brut": 468.75,
+      "list_cod_loja_vend": [
+        {
+          "cod_loja_vend": "default",
+          "qtd_loja_item": 1
+        }
+      ]
+    },
+    {
+      "des_moda_entg_item": "Produto Virtual",
+      "qtd_dia_prz_entg": 10,
+      "vlr_totl_fret": 0.0,
+      "nom_oped_empr": "",
+      "nom_item": "Rock in Rio 2022 - 09/09 - Setor Gramado",
+      "cod_ofrt_ineo_requ": "62cdf4fbe3cc89ac64deb7cc",
+      "vlr_oril": 468.75,
+      "vlr_prod": 468.75,
+      "vlr_prod_ofrt_desc": 0.0,
+      "nom_prod_orig": "Rock in Rio 2022 - 09/09 - Setor Gramado",
+      "txt_plae_otmz_url_prod": "rock-in-rio-2022-09-09-setor-gramado",
+      "qtd_item_pedi": 1,
+      "idt_venr": "V3mGU4wV0C",
+      "nom_venr": "Easylive",
+      "idt_vrne_venr": "36540",
+      "vlr_fret": 0.0,
+      "vlr_desc_envo": 0.0,
+      "cod_vrne_prod": "MKU-pmGBqkZhqsmgy",
+      "txt_plae_otmz_url_item": "rock-in-rio-2022-09-09-setor-gramado",
+      "nom_url_img_oril": "https://static.cdn-mkplace.com.br/storage/png/a2c9394a5a73198eaababbd39af1af4f48ddc0ebbf773de254c54305f4d1cfce.png",
+      "vlr_oril_prod_unit_vrne": 468.75,
+      "vlr_prec_unit_brut": 468.75,
+      "list_cod_loja_vend": [
+        {
+          "cod_loja_vend": "default",
+          "qtd_loja_item": 1
+        }
+      ]
+    }
+  ],
+  "stat_pgto": "PAID",
+  "list_envo": [],
+  "stat_pedi": "PAID",
+  "idt_loja": "e6Cxzg1ttq",
+  "objt_des_rsum": {
+    "num_item": 3.0,
+    "qtd_maxi_temp_envo": 10.0,
+    "vlr_desc_conc_pedi": 0.0,
+    "vlr_totl_pedi": 1406.25,
+    "vlr_totl_desc": 0.0,
+    "vlr_cust_totl_envo": 0.0,
+    "vlr_desc_totl_envo": 0.0
+  },
+  "dat_atui": "2022-07-14T00:20:31.817Z",
+  "cod_aces_tokn": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXltZW50U3RhdHVzIjoiUFJFLU9SREVSIiwicGF5bWVudHMiOltdLCJzdGF0dXMiOiJQUkUtT1JERVIiLCJjbGllbnRJZCI6ImN1c3RvbWVyLXN0b3JlIiwic3RvcmVJZCI6ImU2Q3h6ZzF0dHEiLCJzdW1tYXJ5Ijp7Iml0ZW1zIjozLCJ0b3RhbCI6MTQwNi4yNSwidG90YWxQcmljZURpc2NvdW50IjowLCJ0b3RhbFNoaXBwaW5nQ29zdCI6MCwidG90YWxTaGlwcGluZ0Rpc2NvdW50IjowLCJtYXhTaGlwcGluZ1RpbWUiOjEwLCJvcmRlcnNEaXNjb3VudCI6MH0sImRpc2NvdW50cyI6W10sImN1c3RvbWVyIjp7InBob25lIjp7Il9pZCI6Im4vYSIsImNvdW50cnlDb2RlIjoiNTUiLCJhcmVhQ29kZSI6IjYzIiwibnVtYmVyIjoiOTgxMDQ2MzY0In0sImVtYWlsIjoiUFJJU0NZTExBQU5HRUxSSUJFSVJPQEdNQUlMLkNPTSIsInJlZiI6IjA0NzVlNGM4LWFmNGItNDJmYS1iZmZhLWE3YzE1YTQ1ZDZiYyIsIm5hbWUiOiJQUklTQ1lMTEEgQU5HRUwgUklCRUlSTyIsInR5cGUiOiJpbmRpdmlkdWFsIiwiZG9jdW1lbnQiOiIwMTcxMjEwNDE3OSJ9LCJkZWxpdmVyeUFkZHJlc3MiOnsibnVtYmVyIjoiU04iLCJ6aXBjb2RlIjoiNzc4MjQtODAyIiwiY291bnRyeUNvZGUiOiJCUiIsInJlY2VpdmVyTmFtZSI6IlBSSVNDWUxMQSBBTkdFTCBSSUJFSVJPIiwic3RyZWV0IjoiZG9zIEp1w6FzIiwiY2l0eSI6IkFyYWd1YcOtbmEiLCJjb21wbGVtZW50IjoiUUQzMExUMDkiLCJzaG9ydFN0YXRlIjoiVE8iLCJzdGF0ZSI6IlRPIiwibmVpZ2hib3Job29kIjoiQmFpcnJvIGRhIENpbWJhIn0sIml0ZW1zIjpbeyJzaGlwcGluZ0Nvc3QiOjAsInNoaXBwaW5nRGlzY291bnQiOjAsImZpbmFsU2hpcHBpbmdDb3N0IjowLCJwcm9kdWN0TmFtZSI6IlJvY2sgaW4gUmlvIDIwMjIgLSAwOC8wOSAtIFNldG9yIEdyYW1hZG8iLCJwcm9kdWN0U2x1ZyI6InJvY2staW4tcmlvLTIwMjItMDgtMDktc2V0b3ItZ3JhbWFkbyIsInNsdWciOiJyb2NrLWluLXJpby0yMDIyLTA4LTA5LXNldG9yLWdyYW1hZG8iLCJza3VJZCI6Ik1LVS02RzFxc3lCUEZFUkI4IiwibmFtZSI6IlJvY2sgaW4gUmlvIDIwMjIgLSAwOC8wOSAtIFNldG9yIEdyYW1hZG8iLCJ0aHVtYm5haWwiOiJodHRwczovL3N0YXRpYy5jZG4tbWtwbGFjZS5jb20uYnIvc3RvcmFnZS9wbmcvYWZiYzU4ZGM0Mjk5NGEyM2U5MmJlMjdjNjQyMmQ0MmE0YTgyNjZmN2I5ODk0YTEzMTQ5MmEzODI0ZWUyMDZkYi5wbmciLCJxdWFudGl0eSI6MSwib2ZmZXJJZCI6IjYyY2RmNGZiZTNjYzg5YWM2NGRlYjdjYiIsIndhcmVob3VzZXMiOlt7Il9pZCI6ImRlZmF1bHQiLCJxdWFudGl0eSI6MX1dLCJzZWxsZXJOYW1lIjoiRWFzeWxpdmUiLCJzZWxsZXJJZCI6IlYzbUdVNHdWMEMiLCJzZWxsZXJTa3VJZCI6IjM2NTM5IiwicHJpY2UiOjQ2OC43NSwib3JpZ2luYWxQcmljZSI6NDY4Ljc1LCJ1bml0UHJpY2UiOjQ2OC43NSwidW5pdE9yaWdpbmFsUHJpY2UiOjQ2OC43NSwicHJpY2VEaXNjb3VudCI6MCwiZGVsaXZlcnlNZXRob2ROYW1lIjoiUHJvZHV0byBWaXJ0dWFsIiwiZXN0aW1hdGVkQnVzaW5lc3NEYXlzIjoxMCwibG9naXN0aWNQcm92aWRlck5hbWUiOiIifSx7InNoaXBwaW5nQ29zdCI6MCwic2hpcHBpbmdEaXNjb3VudCI6MCwiZmluYWxTaGlwcGluZ0Nvc3QiOjAsInByb2R1Y3ROYW1lIjoiUm9jayBpbiBSaW8gMjAyMiAtIDAyLzA5IC0gU2V0b3IgR3JhbWFkbyIsInByb2R1Y3RTbHVnIjoicm9jay1pbi1yaW8tMjAyMi0wMi0wOS1zZXRvci1ncmFtYWRvIiwic2x1ZyI6InJvY2staW4tcmlvLTIwMjItMDItMDktc2V0b3ItZ3JhbWFkbyIsInNrdUlkIjoiTUtVLWVIZUNoclNkOTdoczYiLCJuYW1lIjoiUm9jayBpbiBSaW8gMjAyMiAtIDAyLzA5IC0gU2V0b3IgR3JhbWFkbyIsInRodW1ibmFpbCI6Imh0dHBzOi8vc3RhdGljLmNkbi1ta3BsYWNlLmNvbS5ici9zdG9yYWdlL3BuZy84ZmE4MWVjY2YwYWYyZjRmYThiMWEwMmMyNjYzM2Q5YjEyMjdjZjQ1NmRlYzY1YjUzOGM1NWFhYTk3NDBiMmQzLnBuZyIsInF1YW50aXR5IjoxLCJvZmZlcklkIjoiNjJjZGY0ZmJlM2NjODlhYzY0ZGViN2M4Iiwid2FyZWhvdXNlcyI6W3siX2lkIjoiZGVmYXVsdCIsInF1YW50aXR5IjoxfV0sInNlbGxlck5hbWUiOiJFYXN5bGl2ZSIsInNlbGxlcklkIjoiVjNtR1U0d1YwQyIsInNlbGxlclNrdUlkIjoiMzY1MzYiLCJwcmljZSI6NDY4Ljc1LCJvcmlnaW5hbFByaWNlIjo0NjguNzUsInVuaXRQcmljZSI6NDY4Ljc1LCJ1bml0T3JpZ2luYWxQcmljZSI6NDY4Ljc1LCJwcmljZURpc2NvdW50IjowLCJkZWxpdmVyeU1ldGhvZE5hbWUiOiJQcm9kdXRvIFZpcnR1YWwiLCJlc3RpbWF0ZWRCdXNpbmVzc0RheXMiOjEwLCJsb2dpc3RpY1Byb3ZpZGVyTmFtZSI6IiJ9LHsic2hpcHBpbmdDb3N0IjowLCJzaGlwcGluZ0Rpc2NvdW50IjowLCJmaW5hbFNoaXBwaW5nQ29zdCI6MCwicHJvZHVjdE5hbWUiOiJSb2NrIGluIFJpbyAyMDIyIC0gMDkvMDkgLSBTZXRvciBHcmFtYWRvIiwicHJvZHVjdFNsdWciOiJyb2NrLWluLXJpby0yMDIyLTA5LTA5LXNldG9yLWdyYW1hZG8iLCJzbHVnIjoicm9jay1pbi1yaW8tMjAyMi0wOS0wOS1zZXRvci1ncmFtYWRvIiwic2t1SWQiOiJNS1UtcG1HQnFrWmhxc21neSIsIm5hbWUiOiJSb2NrIGluIFJpbyAyMDIyIC0gMDkvMDkgLSBTZXRvciBHcmFtYWRvIiwidGh1bWJuYWlsIjoiaHR0cHM6Ly9zdGF0aWMuY2RuLW1rcGxhY2UuY29tLmJyL3N0b3JhZ2UvcG5nL2EyYzkzOTRhNWE3MzE5OGVhYWJhYmJkMzlhZjFhZjRmNDhkZGMwZWJiZjc3M2RlMjU0YzU0MzA1ZjRkMWNmY2UucG5nIiwicXVhbnRpdHkiOjEsIm9mZmVySWQiOiI2MmNkZjRmYmUzY2M4OWFjNjRkZWI3Y2MiLCJ3YXJlaG91c2VzIjpbeyJfaWQiOiJkZWZhdWx0IiwicXVhbnRpdHkiOjF9XSwic2VsbGVyTmFtZSI6IkVhc3lsaXZlIiwic2VsbGVySWQiOiJWM21HVTR3VjBDIiwic2VsbGVyU2t1SWQiOiIzNjU0MCIsInByaWNlIjo0NjguNzUsIm9yaWdpbmFsUHJpY2UiOjQ2OC43NSwidW5pdFByaWNlIjo0NjguNzUsInVuaXRPcmlnaW5hbFByaWNlIjo0NjguNzUsInByaWNlRGlzY291bnQiOjAsImRlbGl2ZXJ5TWV0aG9kTmFtZSI6IlByb2R1dG8gVmlydHVhbCIsImVzdGltYXRlZEJ1c2luZXNzRGF5cyI6MTAsImxvZ2lzdGljUHJvdmlkZXJOYW1lIjoiIn1dLCJfaWQiOiJXcnRtbVVkOWhPMElZIiwiY29kZSI6IjIyMDcwMTYzNzY3Mjc4NTk0MiIsInNoaXBtZW50cyI6W10sImNyZWF0ZWRBdCI6IjIwMjItMDctMTRUMDA6MjA6MjcuMTA3WiIsInVwZGF0ZWRBdCI6IjIwMjItMDctMTRUMDA6MjA6MjcuMTA3WiIsIl9fdiI6MCwiaWF0IjoxNjU3NzU4MDI3fQ.QgEAx1IAJqN3ngGZqrnc-jOhYyXAvlPZtp2FDZcMSxDCkk12eEHdoZEmFU6zUo39tKdBk5EFYCO-arQ3zleQfRY4mmBaDrdUtNVmlpC0EjNHChm3uMOcmFWxiFRYGdhArchaA4EZHZHVxOUaZcWYu-cnon4-U7d_6IT1FP_-Il31wkBmTMvl_Na5G3jyvDTo0WZGUvNKs1ik8B4bhVkvkauaFTHVfnvtw2vAwMr523SeINx5jgXz-Gik0BRN9zXdIHhvbBEUZRSGgehBwZJ-2wCwiI1_BysOK4D4J-wsmG-lPwidqf-PZ9sxFqs20D8NVdWQp5QwjEaPwLrZkAWdzw"
+}
