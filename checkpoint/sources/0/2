@@ -1,7 +1,0 @@
-v1
-{"path":"file:///Users/nahara.calcidoni/Documents/GIT_bck/spark-local-streaming/input_events/GHJ2619225280159_6.json","timestamp":1695396430000,"batchId":2}
-{"path":"file:///Users/nahara.calcidoni/Documents/GIT_bck/spark-local-streaming/input_events/GHJ2619225280159_4.json","timestamp":1695396474000,"batchId":2}
-{"path":"file:///Users/nahara.calcidoni/Documents/GIT_bck/spark-local-streaming/input_events/GHJ2619225280159_3.json","timestamp":1695396492000,"batchId":2}
-{"path":"file:///Users/nahara.calcidoni/Documents/GIT_bck/spark-local-streaming/input_events/GHJ2619225280159_2.json","timestamp":1695396510000,"batchId":2}
-{"path":"file:///Users/nahara.calcidoni/Documents/GIT_bck/spark-local-streaming/input_events/GHJ2619225280159_1.json","timestamp":1695396524000,"batchId":2}
-{"path":"file:///Users/nahara.calcidoni/Documents/GIT_bck/spark-local-streaming/input_events/8rQeIH1kGo6bV9c5_test_a.json","timestamp":1699204998009,"batchId":2}
